@@ -16,3 +16,4 @@
 -   To run both the client and the server use the command `npm run dev`
 -   To only run the server use the command `npm run server`
 -   To only run the client use the command `npm run client`
+# react-ecomm1
